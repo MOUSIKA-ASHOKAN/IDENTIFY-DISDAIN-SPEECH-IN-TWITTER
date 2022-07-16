@@ -4,10 +4,8 @@ The goal of this errand is to identify disdain speech in tweets. For straightfor
 
 Model is able to analyze loads of twitter tweets, and be able to judge the sentiments behind the tweets. 
 
-Officially, given a preparation test of tweets and names, where label '1' signifies the tweet is bigoted/sexist and classify it, and mark '0' indicates the tweet isn't bigoted/misogynist, your goal is to foresee the names on the test dataset.
-
-For preparing the models, we give a named dataset of 31,962 tweets. The dataset is given as a csv document with each line putting away a tweet id, its name and the tweet.
+We will investigate tweets made against an aircraft, and judging in the event that they are of positive, negative or nonpartisan opinions. These sorts of models are enormously utilized by Twitter and Facebook, to sift through to say disdain discourses, or other undesirable remarks on their foundation.
 
 ALGORITHM USED: LOGIC REGRESSION-Logistic regression is fast and relatively uncomplicated, and it’s convenient for you to interpret the results.
 
-DATASET USED : https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/
+DATASET USED : https://www.kaggle.com/code/seunowo/sentiment-analysis-twitter-dataset/comments
